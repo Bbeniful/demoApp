@@ -83,5 +83,8 @@ dependencies {
 
     implementation(libs.androidx.lifecycle.runtime.compose)
 
+    testImplementation(libs.kotlinx.coroutines.test)
+
+
 
 }
