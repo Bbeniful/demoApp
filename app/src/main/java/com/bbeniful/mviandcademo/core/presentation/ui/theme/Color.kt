@@ -1,4 +1,4 @@
-package com.bbeniful.mviandcademo.ui.theme
+package com.bbeniful.mviandcademo.core.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

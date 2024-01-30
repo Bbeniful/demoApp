@@ -1,4 +1,4 @@
-package com.bbeniful.mviandcademo
+package com.bbeniful.mviandcademo.core.domain.extensions
 
 import androidx.lifecycle.Lifecycle
 import androidx.navigation.NavController

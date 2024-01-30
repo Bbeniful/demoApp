@@ -1,10 +1,11 @@
-package com.bbeniful.mviandcademo
+package com.bbeniful.mviandcademo.core.data.database.dao
 
 import androidx.room.Dao
 import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
+import com.bbeniful.mviandcademo.DemoModel
 import kotlinx.coroutines.flow.Flow
 
 @Dao

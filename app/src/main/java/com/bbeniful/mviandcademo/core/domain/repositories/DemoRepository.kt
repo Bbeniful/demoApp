@@ -1,5 +1,6 @@
-package com.bbeniful.mviandcademo
+package com.bbeniful.mviandcademo.core.domain.repositories
 
+import com.bbeniful.mviandcademo.DemoModel
 import kotlinx.coroutines.flow.Flow
 
 interface DemoRepository {

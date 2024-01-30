@@ -1,5 +1,8 @@
-package com.bbeniful.mviandcademo
+package com.bbeniful.mviandcademo.core.data.repositories
 
+import com.bbeniful.mviandcademo.DemoModel
+import com.bbeniful.mviandcademo.core.domain.repositories.DemoRepository
+import com.bbeniful.mviandcademo.core.data.database.dao.DemoDao
 import javax.inject.Inject
 
 class DemoRepositoryImpl @Inject constructor(

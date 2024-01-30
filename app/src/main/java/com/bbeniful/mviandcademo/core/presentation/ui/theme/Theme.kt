@@ -1,4 +1,4 @@
-package com.bbeniful.mviandcademo.ui.theme
+package com.bbeniful.mviandcademo.core.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
